@@ -1,6 +1,6 @@
 public class Account {
   //Atributos
-  String id;
+  Integer id;
   String name;
   String document;
   String email;
