@@ -15,3 +15,10 @@ Curso de Programación Orientada a Objetos: POO
 ## Herramientas
 
 - Visual Studio Code
+
+## Lenguajes
+
+- Python
+- Java
+- JavaScript
+- PHP
