@@ -14,7 +14,16 @@ public class UberVan extends Car{
 
     //Atributos de la clase padre
     // super.driver
+  }
 
+  @Override
+  public void setPassenger(Integer passenger) {
+      if (passenger == 6){
+        this.passenger = passenger;
+      }
+      else{
+        System.out.println("Necesitas asignar 4 pasajeros...");
+      }
   }
   
 }

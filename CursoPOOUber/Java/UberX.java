@@ -11,7 +11,12 @@ public class UberX extends Car{
 
     //Atributos de la clase padre
     // super.driver
+  }
 
+  @Override
+  public void printDataCar() {
+    super.printDataCar();
+    System.out.println("Modelo: " + model + " Brand: " + brand);
   }
   
 }
