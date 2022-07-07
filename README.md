@@ -11,6 +11,10 @@ Curso de Programación Orientada a Objetos: POO
 6. Objetos
 7. Anstracción y Clases
 8. Modularidad
+9. Clases y Objetos
+10. Herencia
+11. Encapsulamiento
+12. Polimorfismo 
 
 ## Herramientas
 
